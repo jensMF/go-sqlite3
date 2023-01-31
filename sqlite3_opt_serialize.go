@@ -1,4 +1,4 @@
-// +build !libsqlite3 !sqlcipher !libsqlcipher sqlite_serialize
+// +build !libsqlite3, !sqlcipher, !libsqlcipher sqlite_serialize
 
 package sqlite3
 
